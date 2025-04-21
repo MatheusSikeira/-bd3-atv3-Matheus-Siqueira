@@ -1,0 +1,330 @@
+[
+    {
+      "nome": "Smartphone X10",
+      "valor": 1200.00,
+      "quantidade_estoque": 30,
+      "fabricante": "TechCorp",
+      "categoria": "Eletrônicos",
+      "descricao": "Smartphone com câmera de alta resolução."
+    },
+    {
+      "nome": "Notebook Pro",
+      "valor": 3500.00,
+      "quantidade_estoque": 15,
+      "fabricante": "TechCorp",
+      "categoria": "Eletrônicos",
+      "descricao": "Notebook ultraleve com processador i7."
+    },
+    {
+      "nome": "Cadeira Gamer",
+      "valor": 800.00,
+      "quantidade_estoque": 25,
+      "fabricante": "GameStyle",
+      "categoria": "Móveis",
+      "descricao": "Cadeira ergonômica para gamers."
+    },
+    {
+      "nome": "Fone de Ouvido Bluetooth",
+      "valor": 250.00,
+      "quantidade_estoque": 40,
+      "fabricante": "SoundWave",
+      "categoria": "Eletrônicos",
+      "descricao": "Fone sem fio com cancelamento de ruído."
+    },
+    {
+      "nome": "Teclado Mecânico RGB",
+      "valor": 450.00,
+      "quantidade_estoque": 20,
+      "fabricante": "KeyBoardPro",
+      "categoria": "Acessórios",
+      "descricao": "Teclado mecânico com iluminação RGB personalizável."
+    },
+    {
+      "nome": "Mouse Gamer",
+      "valor": 150.00,
+      "quantidade_estoque": 50,
+      "fabricante": "GameStyle",
+      "categoria": "Acessórios",
+      "descricao": "Mouse gamer com DPI ajustável."
+    },
+    {
+      "nome": "Impressora Multifuncional",
+      "valor": 600.00,
+      "quantidade_estoque": 10,
+      "fabricante": "PrintMaster",
+      "categoria": "Eletrônicos",
+      "descricao": "Impressora com scanner e copiadora."
+    },
+    {
+      "nome": "Monitor LED 24\"",
+      "valor": 900.00,
+      "quantidade_estoque": 12,
+      "fabricante": "ScreenTech",
+      "categoria": "Eletrônicos",
+      "descricao": "Monitor Full HD com tecnologia IPS."
+    },
+    {
+      "nome": "Mesa de Escritório",
+      "valor": 700.00,
+      "quantidade_estoque": 8,
+      "fabricante": "OfficeStyle",
+      "categoria": "Móveis",
+      "descricao": "Mesa ergonômica com gavetas."
+    },
+    {
+      "nome": "Luminária LED",
+      "valor": 120.00,
+      "quantidade_estoque": 35,
+      "fabricante": "LightPro",
+      "categoria": "Decoração",
+      "descricao": "Luminária moderna com ajuste de intensidade."
+    },
+    {
+      "nome": "Ventilador de Mesa",
+      "valor": 180.00,
+      "quantidade_estoque": 22,
+      "fabricante": "AirFlow",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Ventilador silencioso com 3 velocidades."
+    },
+    {
+      "nome": "Liquidificador Profissional",
+      "valor": 300.00,
+      "quantidade_estoque": 18,
+      "fabricante": "KitchenPro",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Liquidificador potente com jarra de vidro."
+    },
+    {
+      "nome": "Panela de Pressão Elétrica",
+      "valor": 400.00,
+      "quantidade_estoque": 14,
+      "fabricante": "KitchenPro",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Panela de pressão com controle digital."
+    },
+    {
+      "nome": "Aspirador de Pó Robô",
+      "valor": 1200.00,
+      "quantidade_estoque": 5,
+      "fabricante": "CleanBot",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Robô que aspira automaticamente o ambiente."
+    },
+    {
+      "nome": "Cafeteira Expresso",
+      "valor": 500.00,
+      "quantidade_estoque": 20,
+      "fabricante": "CoffeeMaster",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Cafeteira com sistema de cápsulas."
+    },
+    {
+      "nome": "Batedeira Planetária",
+      "valor": 280.00,
+      "quantidade_estoque": 10,
+      "fabricante": "KitchenPro",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Batedeira com função planetária."
+    },
+    {
+      "nome": "Relógio Inteligente",
+      "valor": 800.00,
+      "quantidade_estoque": 25,
+      "fabricante": "WatchTech",
+      "categoria": "Eletrônicos",
+      "descricao": "Relógio com monitoramento de saúde."
+    },
+    {
+      "nome": "Caixa de Som Bluetooth",
+      "valor": 200.00,
+      "quantidade_estoque": 30,
+      "fabricante": "SoundWave",
+      "categoria": "Eletrônicos",
+      "descricao": "Caixa de som portátil com bateria de longa duração."
+    },
+    {
+      "nome": "Carregador Portátil",
+      "valor": 100.00,
+      "quantidade_estoque": 50,
+      "fabricante": "PowerBank",
+      "categoria": "Acessórios",
+      "descricao": "Carregador com capacidade de 10.000mAh."
+    },
+    {
+      "nome": "Suporte para Notebook",
+      "valor": 150.00,
+      "quantidade_estoque": 40,
+      "fabricante": "DeskPro",
+      "categoria": "Acessórios",
+      "descricao": "Suporte ergonômico para notebook."
+    },
+    {
+      "nome": "Adaptador HDMI",
+      "valor": 50.00,
+      "quantidade_estoque": 60,
+      "fabricante": "ConnectTech",
+      "categoria": "Acessórios",
+      "descricao": "Adaptador HDMI para VGA."
+    },
+    {
+      "nome": "Cabo USB-C",
+      "valor": 30.00,
+      "quantidade_estoque": 100,
+      "fabricante": "ConnectTech",
+      "categoria": "Acessórios",
+      "descricao": "Cabo USB-C de alta velocidade."
+    },
+    {
+      "nome": "Tapete Decorativo",
+      "valor": 250.00,
+      "quantidade_estoque": 15,
+      "fabricante": "HomeStyle",
+      "categoria": "Decoração",
+      "descricao": "Tapete de lã com design moderno."
+    },
+    {
+      "nome": "Quadro Decorativo",
+      "valor": 180.00,
+      "quantidade_estoque": 20,
+      "fabricante": "ArtPro",
+      "categoria": "Decoração",
+      "descricao": "Quadro com moldura de madeira."
+    },
+    {
+      "nome": "Vaso de Plantas",
+      "valor": 90.00,
+      "quantidade_estoque": 30,
+      "fabricante": "GreenStyle",
+      "categoria": "Decoração",
+      "descricao": "Vaso de cerâmica para plantas."
+    },
+    {
+      "nome": "Almofada Decorativa",
+      "valor": 60.00,
+      "quantidade_estoque": 40,
+      "fabricante": "HomeStyle",
+      "categoria": "Decoração",
+      "descricao": "Almofada com estampa exclusiva."
+    },
+    {
+      "nome": "Espelho de Parede",
+      "valor": 450.00,
+      "quantidade_estoque": 10,
+      "fabricante": "MirrorPro",
+      "categoria": "Decoração",
+      "descricao": "Espelho decorativo com moldura dourada."
+    },
+    {
+      "nome": "Abajur de Mesa",
+      "valor": 150.00,
+      "quantidade_estoque": 15,
+      "fabricante": "LightPro",
+      "categoria": "Decoração",
+      "descricao": "Abajur com design clássico."
+    },
+    {
+      "nome": "Cortina Blackout",
+      "valor": 300.00,
+      "quantidade_estoque": 12,
+      "fabricante": "WindowStyle",
+      "categoria": "Decoração",
+      "descricao": "Cortina blackout para quarto."
+    },
+    {
+      "nome": "Prateleira Flutuante",
+      "valor": 120.00,
+      "quantidade_estoque": 25,
+      "fabricante": "ShelfPro",
+      "categoria": "Decoração",
+      "descricao": "Prateleira de madeira flutuante."
+    },
+    {
+      "nome": "Kit de Ferramentas",
+      "valor": 250.00,
+      "quantidade_estoque": 8,
+      "fabricante": "ToolMaster",
+      "categoria": "Ferramentas",
+      "descricao": "Kit com chaves de fenda e alicates."
+    },
+    {
+      "nome": "Furadeira Elétrica",
+      "valor": 400.00,
+      "quantidade_estoque": 10,
+      "fabricante": "ToolMaster",
+      "categoria": "Ferramentas",
+      "descricao": "Furadeira com impacto."
+    },
+    {
+      "nome": "Chave de Fenda Elétrica",
+      "valor": 180.00,
+      "quantidade_estoque": 15,
+      "fabricante": "ToolMaster",
+      "categoria": "Ferramentas",
+      "descricao": "Chave de fenda recarregável."
+    },
+    {
+      "nome": "Trena Digital",
+      "valor": 120.00,
+      "quantidade_estoque": 20,
+      "fabricante": "MeasurePro",
+      "categoria": "Ferramentas",
+      "descricao": "Trena com display digital."
+    },
+    {
+      "nome": "Serra Circular",
+      "valor": 600.00,
+      "quantidade_estoque": 5,
+      "fabricante": "CutPro",
+      "categoria": "Ferramentas",
+      "descricao": "Serra circular profissional."
+    },
+    {
+      "nome": "Parafusadeira Sem Fio",
+      "valor": 350.00,
+      "quantidade_estoque": 12,
+      "fabricante": "ToolMaster",
+      "categoria": "Ferramentas",
+      "descricao": "Parafusadeira com bateria de lítio."
+    },
+    {
+      "nome": "Jogo de Brocas",
+      "valor": 90.00,
+      "quantidade_estoque": 30,
+      "fabricante": "DrillPro",
+      "categoria": "Ferramentas",
+      "descricao": "Jogo de brocas para metal e madeira."
+    },
+    {
+      "nome": "Martelo de Bola",
+      "valor": 50.00,
+      "quantidade_estoque": 40,
+      "fabricante": "HammerPro",
+      "categoria": "Ferramentas",
+      "descricao": "Martelo de bola para carpintaria."
+    },
+    {
+      "nome": "Alicate Universal",
+      "valor": 70.00,
+      "quantidade_estoque": 50,
+      "fabricante": "ToolMaster",
+      "categoria": "Ferramentas",
+      "descricao": "Alicate universal resistente."
+    },
+    {
+      "nome": "Tesoura de Jardim",
+      "valor": 40.00,
+      "quantidade_estoque": 60,
+      "fabricante": "GardenPro",
+      "categoria": "Ferramentas",
+      "descricao": "Tesoura para poda de plantas."
+    },
+    {
+      "nome": "Rolo de Pintura",
+      "valor": 30.00,
+      "quantidade_estoque": 70,
+      "fabricante": "PaintPro",
+      "categoria": "Ferramentas",
+      "descricao": "Rolo de pintura com bandeja."
+    }
+  ]
